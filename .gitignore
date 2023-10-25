@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+# /api/
+dockerproject/testapp/__pycache__
+dockerproject/testapp/migrations/__pycache__
+dockerproject/testapp/migrations/__pycache__
+# /project/
+dockerproject/dockerproject/__pycache__
+
+
+venv/
+media/
+staticfiles/
